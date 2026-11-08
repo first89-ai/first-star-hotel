@@ -24,3 +24,8 @@ Multi-branch, multi-country hotel reservation and property-management platform.
 6. Configure branch-specific room inventory, rate plans, tax and service-charge policies before opening reservations.
 
 No real payment is marked paid by a browser action or uploaded slip. Only verified provider events or an authorized finance review may change payment status.
+
+
+## One-time Super Admin bootstrap
+
+See [`setup/SUPER_ADMIN_BOOTSTRAP.md`](setup/SUPER_ADMIN_BOOTSTRAP.md) for the secure owner account setup process.
